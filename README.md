@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hila419
+- 👋 Hi, I’m @Lia419
 - 👀 I’m interested in Business Analytica and the world of Data
 - 🌱 I’m currently learning Data analytics tools such as R, BigQuery, SQL, etc.
 - 📫 How to reach me, via email, or on LinkedIn
